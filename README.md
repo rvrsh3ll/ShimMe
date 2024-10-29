@@ -13,6 +13,8 @@ Shim Injector - Writes an undocumented shim data structure into the memory of an
 
 ## References
 
+* [DEF CON talk](https://www.youtube.com/watch?v=-Z34ya4rb8A)
+* https://www.deepinstinct.com/blog/SHIM-Me-What-You-Got:-Manipulating-Shim-and-Office-for-Code-Injection
 * https://learn.microsoft.com/en-us/windows/win32/fileio/opportunistic-locks
 * https://learn.microsoft.com/en-us/windows/win32/devnotes/application-compatibility-database
 * https://www.blackhat.com/docs/eu-15/materials/eu-15-Pierce-Defending-Against-Malicious-Application-Compatibility-Shims-wp.pdf
